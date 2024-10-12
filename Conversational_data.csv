@@ -1,0 +1,6 @@
+﻿user_input,intent,entities
+"""Book a flight to New York""","""book_flight""","""New York"""
+"""What is the weather in London tomorrow?""","""get_weather""","""London"""
+"""Book me a flight to the philippines""","""book_flight""","""philippines"""
+"""Schedule a meeting for 3 PM""","""schedule_meeting""","""3 PM"""
+"""Remind me to call John""","""set_reminder""","""John"""
